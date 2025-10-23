@@ -1,0 +1,48 @@
+
+[
+    {
+        "name": "Wolf Slayer",
+        "type": "title",
+        "tier": "c",
+        "description": "A title given to those who have hunted wolves.",
+        "cost": 100
+    },
+    {
+        "name": "The Monarch",
+        "type": "title",
+        "tier": "s",
+        "description": "A title for the one who stands above all.",
+        "cost": 10000
+    },
+    {
+        "name": "Fire Aura",
+        "type": "effect",
+        "tier": "a",
+        "description": "Engulfs your messages in a fiery glow.",
+        "cost": 500,
+        "style": "fire"
+    },
+    {
+        "name": "Lightning Speed",
+        "type": "effect",
+        "tier": "a",
+        "description": "Makes your username crackle with energy.",
+        "cost": 500,
+        "style": "lightning"
+    },
+    {
+        "name": "Shadow Veil",
+        "type": "effect",
+        "tier": "s",
+        "description": "Cloaks your presence in dark energy.",
+        "cost": 2500,
+        "style": "shadow"
+    },
+    {
+        "name": "Minor Healing Potion",
+        "type": "potion",
+        "tier": "e",
+        "description": "A simple potion to restore a small amount of health.",
+        "cost": 20
+    }
+]
